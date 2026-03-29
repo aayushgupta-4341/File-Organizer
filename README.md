@@ -7,13 +7,13 @@ This project simulates a basic file management system like a desktop file explor
 
 ## 🚀 Live Demo
 
-[🔗(https://file-organizer-web.netlify.app/)]
+🔗https://file-organizer-web.netlify.app/
 
 ---
 
 ## 📂 GitHub Repository
 
-🔗(https://github.com/aayushgupta-4341/File-Organizer.git)
+🔗https://github.com/aayushgupta-4341/File-Organizer.git
 
 ---
 
@@ -42,7 +42,7 @@ This project simulates a basic file management system like a desktop file explor
 
 ## 📸 Screenshot
 
-(Add your project screenshot here)
+<img width="1919" height="960" alt="Screenshot 2026-03-29 153613" src="https://github.com/user-attachments/assets/8153546e-4577-49f6-b39a-d31e378d9830" />
 
 ---
 
